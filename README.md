@@ -1,5 +1,4 @@
 Convert Facebook UID to Email
-==============
 Fast converter UID to email and phone number
 * Work with multi format: csv, multi lines, comma seperate
 * Multi Threads(up to 500 threads)
@@ -24,3 +23,4 @@ Begin typing your search (ex: Friends in San Francisco). See examples of things 
 As you type, a list of search suggestions will appear.
 Choose one of the suggested options or finish typing and hit Enter.
 Use the filters or click Refine This Search on the right to narrow your results by things like location or date.
+##Not valid in 2020
